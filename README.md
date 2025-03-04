@@ -24,7 +24,7 @@ Zentry es un proyecto personal inspirado en [zentry.com](https://zentry.com/). E
 
 3. Inicia el servidor de desarrollo:
     ```bash 
-
+    npm run dev
 
 ## Contribuciones
 Aunque este es un proyecto personal, cualquier sugerencia o recomendación es bienvenida. Por favor, crea un Issue o envía un Pull Request si tienes ideas para mejorar el código.
