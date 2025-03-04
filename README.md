@@ -13,6 +13,9 @@ Zentry es un proyecto personal inspirado en [zentry.com](https://zentry.com/). E
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/cseis06/zentry.git
+
+   
+   ```bash
    cd zentry
 
 2. Instala las dependencias:
