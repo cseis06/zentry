@@ -3,10 +3,9 @@
 Zentry es un proyecto personal inspirado en [zentry.com](https://zentry.com/). Este proyecto busca replicar parte de la funcionalidad y diseño del sitio original, utilizando **React** y **Tailwind CSS**.  
 ⚠️ **Todos los créditos por los assets y la mayor parte de la idea van para [zentry.com](https://zentry.com/).** Este proyecto no tiene fines comerciales y está destinado únicamente para aprendizaje y desarrollo personal.
 
-## Características principales
-- **React**: Framework utilizado para construir componentes reutilizables y manejar la lógica de la interfaz.
-- **Tailwind CSS**: Framework CSS que facilita el diseño moderno y responsivo.
-- Inspirado en el diseño limpio y minimalista de [zentry.com](https://zentry.com).
+## Tecnologías
+- **React + Vite**
+- **Tailwind CSS**
 
 ## Instalación
 
