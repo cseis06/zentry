@@ -14,7 +14,7 @@ Zentry es un proyecto personal inspirado en [zentry.com](https://zentry.com/). E
    ```bash
    git clone https://github.com/cseis06/zentry.git
 
-   
+2. Entra a la carpeta del proyecto:
    ```bash
    cd zentry
 
