@@ -31,7 +31,7 @@ Aunque este es un proyecto personal, cualquier sugerencia o recomendación es bi
 
 # Créditos
 
-Este proyecto está inspirado en el diseño y funcionalidad de zentry.com.
+Este proyecto está inspirado en el diseño y funcionalidad de [zentry.com](https://zentry.com/)
 Todos los assets y elementos visuales son propiedad de zentry.com y se utilizan únicamente con fines educativos.
 
 ## Licencia
